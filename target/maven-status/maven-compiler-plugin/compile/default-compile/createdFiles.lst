@@ -1,0 +1,15 @@
+com\miniprojet\exceptions\ControllerExceptionHandler.class
+com\miniprojet\dao\models\ProductEntity.class
+com\miniprojet\services\impl\ProductServiceImpl.class
+com\miniprojet\controllers\ProductController.class
+com\miniprojet\services\IProductService.class
+com\miniprojet\dto\request\ProductRequestDto.class
+com\miniprojet\exceptions\ResourceNotFoundException.class
+com\miniprojet\configurations\WebConfig.class
+com\miniprojet\dao\repositories\IProductRepository.class
+com\miniprojet\dto\response\ProductResponseDto.class
+com\miniprojet\exceptions\BadRequestException.class
+com\miniprojet\dto\shared\InventoryStatus.class
+com\miniprojet\exceptions\ErrorMessage.class
+com\miniprojet\utils\Messages.class
+com\miniprojet\ProductApplication.class

@@ -1,0 +1,15 @@
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\dao\models\ProductEntity.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\services\impl\ProductServiceImpl.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\exceptions\ResourceNotFoundException.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\controllers\ProductController.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\exceptions\BadRequestException.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\ProductApplication.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\services\IProductService.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\exceptions\ControllerExceptionHandler.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\dto\response\ProductResponseDto.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\configurations\WebConfig.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\exceptions\ErrorMessage.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\dto\request\ProductRequestDto.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\utils\Messages.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\dao\repositories\IProductRepository.java
+C:\Users\houmd\eclipse-workspace\mini-projet-java-spring\src\main\java\com\miniprojet\dto\shared\InventoryStatus.java
